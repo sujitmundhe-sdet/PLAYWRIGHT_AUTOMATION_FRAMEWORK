@@ -5,9 +5,9 @@ from pages.common import CommonPage
 
 def test_add_product_to_cart(page:Page,config):
     loginpage = LoginPage(page)
-    inventorypage= InventoryPage(page,config)
+    inventorypage= InventoryPage(page)
     commonpage = CommonPage()
     
     commonpage.navigate_to_url(page,url=config['base_url'])
     loginpage.login_to_saucelab(config['username'], config['password'])
-    inventorypage.select_product()
+    inventorypage.select_product(config)
