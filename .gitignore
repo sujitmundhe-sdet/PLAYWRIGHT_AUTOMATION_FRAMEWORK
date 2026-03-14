@@ -1,5 +1,5 @@
-        .DS_Store
-        .github/
-        .venv/
-        __pycache__/
-        artifacts/.venv/
+.DS_Store
+.github/
+.venv/
+__pycache__/
+artifacts/.venv/
