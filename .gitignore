@@ -7,3 +7,5 @@ artifacts/reports/
 tests/__pycache__/
 tests/artifacts/
 tests/.venv/
+reports/
+reports/__pycache__/
