@@ -2,10 +2,5 @@
 .github/
 .venv/
 __pycache__/
-artifacts/
-artifacts/reports/
-tests/__pycache__/
-tests/artifacts/
-tests/.venv/
+tests/
 reports/
-reports/__pycache__/
