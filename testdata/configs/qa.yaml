@@ -1,0 +1,10 @@
+base_url : https://www.saucedemo.com/
+username : standard_user
+password : secret_sauce
+invalid_username : locked_out_user
+product_name : Sauce Labs Bolt T-Shirt
+first name : John
+last name : Doe
+postal code : '12345'
+inventory_url : https://www.saucedemo.com/inventory-item.html?id=1
+
