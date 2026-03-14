@@ -2,4 +2,7 @@
 .github/
 .venv/
 __pycache__/
-artifacts/.venv/
+artifacts/
+tests/__pycache__/
+tests/artifacts/
+tests/.venv/
